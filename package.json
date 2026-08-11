@@ -1,0 +1,12 @@
+{
+  "name": "carriere-arena",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build-database.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

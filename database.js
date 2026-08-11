@@ -1,0 +1,6 @@
+/* Seed locale per provare l'interfaccia prima del primo deploy. Il build Netlify lo sostituirà. */
+window.CAREERS = [
+  {name:'Gianfranco Zola',wikipedia:'https://it.wikipedia.org/wiki/Gianfranco_Zola',career:[{years:'1984-1986',club:'Nuorese',appearances:22,goals:7},{years:'1986-1989',club:'Torres',appearances:88,goals:21},{years:'1989-1993',club:'Napoli',appearances:105,goals:32},{years:'1993-1996',club:'Parma',appearances:102,goals:49},{years:'1996-2003',club:'Chelsea',appearances:312,goals:80},{years:'2003-2005',club:'Cagliari',appearances:74,goals:22}]},
+  {name:'Nicolas Anelka',wikipedia:'https://it.wikipedia.org/wiki/Nicolas_Anelka',career:[{years:'1995-1997',club:'Paris Saint-Germain',appearances:69,goals:23},{years:'1997-1999',club:'Arsenal',appearances:65,goals:23},{years:'1999-2000',club:'Real Madrid',appearances:19,goals:2},{years:'2002-2005',club:'Manchester City',appearances:103,goals:45},{years:'2008-2012',club:'Chelsea',appearances:184,goals:59}]},
+  {name:'Javier Saviola',wikipedia:'https://it.wikipedia.org/wiki/Javier_Saviola',career:[{years:'1998-2001',club:'River Plate',appearances:86,goals:45},{years:'2001-2004',club:'Barcellona',appearances:108,goals:49},{years:'2004-2005',club:'Monaco',appearances:29,goals:8},{years:'2009-2012',club:'Benfica',appearances:121,goals:34},{years:'2012-2013',club:'Malaga',appearances:27,goals:8}]}
+];
